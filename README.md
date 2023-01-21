@@ -44,12 +44,11 @@
 </p>
 
 </br>
-</br>
 
-  <p align="center">
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=IgorSilvaMedeiros&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues">
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSilvaMedeiros&layout=compact&hide_border=true&theme=transparent">
-  </p>
+<p align="center">
+
+| <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=IgorSilvaMedeiros&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues">      | <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSilvaMedeiros&layout=compact&hide_border=true&theme=transparent"> |
+| ----------- | ----------- |
   
 <p align="left">
     💌 If you want to see more of my work or get in touch, follow my networks: ⤵️
