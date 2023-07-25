@@ -11,12 +11,12 @@ Hello, my name is Igor da Silva and I have a graduated in computer science and I
 
 * Languages:
   
-  TypeScript - JavaScript
+  `TypeScript` - `JavaScript`
     
 * Front-End Development:    
 
-  React - HTML - CSS
+  `React` - `HTML` - `CSS`
   
 * Tools:
 
-  GitHub - Git - Linux - Visual Studio Code - Figma
+  `GitHub` - `Git` - `Linux` - `Visual Studio Code` - `Figma`
