@@ -6,8 +6,6 @@ Front-end Developer
 
 Hello, my name is Igor da Silva and I have a graduated in computer science and I study web development, I am passionate about art and Japanese culture.
 
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
-
 * Languages:
   
   `TypeScript` - `JavaScript`
